@@ -27,3 +27,5 @@ In short, the answers to these questions are:
 3. There is a small but clear effect of English and Maths attainment on correlations to IMD.
 4. Only the most overall deprived areas.  Areas with medium deprivation are comparable in KS4 attainment to the least deprived areas.
 5. The focus should be on students achieving passes, particularly in Maths and English.
+
+The complete report can be found in EMA.odt
