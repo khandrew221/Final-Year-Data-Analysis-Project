@@ -1,7 +1,14 @@
 # Final Year Data Analysis Project
 
-A final year project investigating two datasets for connections, worked and presented using **Python** (inc. pandas, NumPy, matplotlib, and folio libraries) and **Jupyter** notebooks. A third data set (UK regional border GeoJSON polygons) was then required for the purposes of presenting the data. The datasets were acquired from the UK government (gov.uk).
+A final year project investigating two datasets for connections, worked and presented using **Python** (inc. pandas, NumPy, matplotlib, and folio libraries) and **Jupyter** notebooks. A third data set (UK regional border GeoJSON polygons) was then required for the purposes of presenting the data. The datasets were acquired from the UK government (gov.uk). The questions, methods and datasets were a personal choice within the constraints of having to compare two datasets and incorporate k-means clustering.
 
+## Skills Demonstrated
+
+- JSON data acquisition via a public API 
+- Data cleaning and shaping
+- Data analysis
+- Data mining via k-means clustering
+- Data presentation
 
 ## Report Summary
 
